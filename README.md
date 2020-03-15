@@ -1,4 +1,10 @@
-프로젝트 진행 기간 (4일)
+# Milke Stone
+03.12.목 : 계획서 작성 , 학습
+03.13.금 : 리소스 결정 , 보완 , 학습
+03.14.토 : 코딩 
+03.15.일 : 버그 수정 / 작업과 관련한 문서작업, 제출
+03.16.월 : QA / 버그수정, 과제 회고
+
 
 ![04  GameFlowChart](https://user-images.githubusercontent.com/37606666/76706965-d7820380-672e-11ea-990c-cd6acd2b8a09.png)
 ![06  Sequence Diagram](https://user-images.githubusercontent.com/37606666/76706936-ae617300-672e-11ea-8403-62d9a48a8033.png)
