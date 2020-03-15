@@ -9,6 +9,9 @@
 - Unity3D (Client)
 - Bfxr (Sound)
 - Photoshop (Image)
+- Draw.io (Diagram)
+- StarUML (Diagram)
+
 # About CM2
 - FSM
 - OOP
