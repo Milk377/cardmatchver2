@@ -1,4 +1,4 @@
-
+프로젝트 진행 기간 (4일)
 
 ![04  GameFlowChart](https://user-images.githubusercontent.com/37606666/76706965-d7820380-672e-11ea-990c-cd6acd2b8a09.png)
 ![06  Sequence Diagram](https://user-images.githubusercontent.com/37606666/76706936-ae617300-672e-11ea-8403-62d9a48a8033.png)
