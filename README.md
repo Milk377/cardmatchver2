@@ -21,3 +21,13 @@
 # Download Link
 Down : https://drive.google.com/drive/u/0/folders/1NoC2PKnrGOgr5hRQCVaXchV2H9TA-neu
 
+다운 가능한 파일
+1. 계획서
+2. 전체파일
+3. APK파일
+4. 플로우차트
+5. 클래스 다이어그램
+6. 시퀀스 다이어그램
+7. 프로젝트 회고
+
+
